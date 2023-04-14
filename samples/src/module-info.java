@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author asyqnnrzk
+ *
+ */
+module samples {
+}
