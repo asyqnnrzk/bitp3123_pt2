@@ -12,4 +12,8 @@ public class Location {
 		return num;
 	}
 	
+	public void displayMessage()
+	{
+		System.out.print("Location is ...");
+	}
 }
